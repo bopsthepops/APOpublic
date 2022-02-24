@@ -9,7 +9,7 @@ Vi ricordo l'importanza di entrare nel canale Slack (link è/verra messo sul por
 
 Su Slack verrà creato, di settimana in settimana, un nuovo canale per ogni laboratorio. Per aggiungervi usate il [channel browser](https://slack.com/intl/it-it/help/articles/205239967-Entrare-in-un-canale)
 
-### Dowload
+### Download
 Per scaricare le tracce usate ```git clone``` (se già spiegato) o scaricate la zip, tramite bottone verde *Code* presente poco più in alto.
 
 
