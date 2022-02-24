@@ -39,6 +39,12 @@ git -- version # mostra versione git
 git --help # mostra tutti i possibili comandi
  ```
 
+Successivamente configurare git eseguendo i seguenti due comandi:
+```bash
+git config --global user.email "you@example.com" # mettere email (se vi create un account github usate quella)
+git config --global user.name "Your Name" # inserire vostro nome/nickname
+```
+
 ## PyCharm
 Dal [sito web](https://www.jetbrains.com/pycharm/download/) di PyCharm, seguire le istruzioni di installazione per il vostro sistema operativo. 
 
@@ -47,6 +53,15 @@ La *Community Edition* basta e avanza (questo corso potreste farlo, e lo consigl
 Altrimenti JetBrains permette di [richiedere](https://www.jetbrains.com/community/education/#students) licenze gratuite per studenti.
 
 Creare un progetto e testare un semplice programma per verificare che Python venga trovato da PyCharm.
+
+## Github
+Questo è (per ora) facoltativo, ma fortemente consigliato per diversi motivi:
+- Vi insegna ad usare git, che è al giorno d'oggi è fondamentale
+- Ci rende più semplice rispondere a domande da casa su problemi specifici del vostro codice 
+
+
+
+
 
 
 
