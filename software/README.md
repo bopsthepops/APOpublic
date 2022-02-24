@@ -57,7 +57,11 @@ Creare un progetto e testare un semplice programma per verificare che Python ven
 ## Github
 Questo è (per ora) facoltativo, ma fortemente consigliato per diversi motivi:
 - Vi insegna ad usare git, che è al giorno d'oggi è fondamentale
-- Ci rende più semplice rispondere a domande da casa su problemi specifici del vostro codice 
+- Ci rende più semplice rispondere a domande da casa su problemi specifici del vostro codice
+
+Andate su [github](https://github.com/) e create un account. 
+
+Create un respository (possibilmente pubblico) dove andrete a caricare, laboratorio per laboratorio, le vostre soluzioni. Questa parte verrà spiegata con maggiore chiarezza durante i laboratori.
 
 
 
