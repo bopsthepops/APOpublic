@@ -1,5 +1,5 @@
 # APO 2021/2022
-Questo è il repository pubblico per il corso "Algoritmi e Programmazione ad Oggetti", anno 2021/2022
+Questo è il repository pubblico per il corso "Algoritmi e Programmazione a Oggetti", anno 2021/2022
 
 ## Informazioni generali
 Qui verranno postate tracce, soluzioni e test dei diversi laboratori.
