@@ -9,7 +9,8 @@ Gli argomenti principali su cui riprendere confidenza sono:
 - strutture dati complesse (dizionari, set, tuple)
 - funzioni
 
-Nella seconda parte sono presenti alcuni esercizi per prendere confidenza con il sistema di controllo versione Git.
+Dopo aver svolto gli esercizi, da casa, seguire la guida per la configurazione di git (guida git)
+Al momento **NON E' POSSIBILE** eseguirla in lab per alcuni problemi di configurazione di rete.
 
 ## Esercizio 1
 Scrivete un programma che legga una parola da console e visualizzi tutte le sue sottostringhe,
@@ -92,11 +93,5 @@ indifferente quali parole si stampino).
 
 Infine, testare il programma cercando le parole più ricorrenti nei *Promessi Sposi* (*promessi_sposi.txt*).
 Migliorarlo per quanto possibile (rimuovere punteggiatura, parole vuote, ecc...)
-
-
-
----
-## Esercizio 8 (Git)
-Questo verrà aggiunto a breve, e introdotto durante il laboratorio.
 
 
