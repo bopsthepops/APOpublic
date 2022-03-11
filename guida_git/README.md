@@ -40,6 +40,18 @@ Creare il repository. Come si vede esso contiene solamente il file *README.md*.
 E' comune avere questo tipo di file, scritto in [Markdown](https://www.markdownguide.org/basic-syntax/),
 per descrivere il contenuto del repository.
 
+### Sui pc del laboratorio (provvisoria)
+Prima di usare git eseguire il seguente comando:
+
+```bash
+git config --global http.proxy http://prxlaib.polito.it:8080
+```
+Aprire la **git bash** e spostarsi nel disco *D:* tramite il seguente comando:
+
+```bash
+cd d:\
+```
+
 ### Checkout repository (git clone)
 Sulla pagina del repository, cliccare sul bottone verde **Code** e copiare l'url HTTPS (non SSH).
 Aprire un terminale in una cartella del proprio PC dove si vuole scaricarlo.
