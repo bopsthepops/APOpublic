@@ -24,20 +24,39 @@ Selezionare le versioni 64 bit, a meno che il vostro sistema non sia a 32 bit. U
 
 Una volta eseguita l'installazione aprire un terminale e digitare il comando:
 ``` bash
- python --version # mosta versione python
- python # lancia l'interprete di python, digitare exit() per uscire
- ```
+python --version # mosta versione python
+python # lancia l'interprete di python, digitare exit() per uscire
+```
 
- ## Git
- Per installare Git seguire le istruzioni al seguente [link](https://git-scm.com/downloads), selezionando il proprio sistema operativo.
- 
- Per Windows durante il processo di installazione, lasciare tutte le opzioni a quelle di default.
+## Git
+Per installare Git seguire le istruzioni al seguente [link](https://git-scm.com/downloads), selezionando il proprio sistema operativo.
 
- Aprire un terminale e digitare:
+#### Windows
+Scaricare l'installer (*.exe*) e durante il processo di installazione lasciare tutte le opzioni a quelle di default.
+
+#### MacOS
+L'installazione su mac richiede l'istallazione del packet manager **brew**. Brew a sua volta richiede i *Command Line Tools (CLT) for Xcode*.
+Per scaricare i command line tools eseguire da terminale il seguente comando:
+
+``` bash
+xcode-select --install
+```
+Oppure scaricare il pacchetto dal [sito](https://developer.apple.com/download/all/).
+Successivamente installare brew:
+``` bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+e usare brew per installare git:
+``` bash
+brew install git
+```
+### Configurazione
+
+Una volta installato, aprire un terminale e digitare:
 ``` bash
 git -- version # mostra versione git
 git --help # mostra tutti i possibili comandi
- ```
+```
 
 Successivamente configurare git eseguendo i seguenti due comandi:
 ```bash
